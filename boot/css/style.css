@@ -1,0 +1,41 @@
+
+body{
+    font: 20px arial, sans-serif;
+}
+
+.navbar{
+    background-color:#002266;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.quem-somos{
+    background-color: #e60000;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #002266;
+    color: white;
+}
+
+.fly{
+    margin-top: 80px ;
+}
+
+.nike{
+    margin-top: 30px;
+}
+
+.img{
+    margin-top: 45px;
+}
+
